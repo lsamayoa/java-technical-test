@@ -1,7 +1,10 @@
 package com.lsamayoa.skill;
 
 /**
- * @author leonel
+ * @author Leonel Samayoa
+ *
+ * This class contains utilities to transform number arrays.
+ * (it contains the technical test answer.)
  *
  */
 public class NumberArrayUtils {
