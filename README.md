@@ -7,12 +7,12 @@ For example, if N=2, given the input array [1, 2, 3, 4, 5, 6] the function shoul
 
 ## Project Requirements
 
-In order to run this project you need to have a java JDK 1.8 or newer installed and configured.
-You will also need maven installed and confiured.
+In order to run this project you need to have a java [JDK](http://docs.oracle.com/javase/7/docs/webnotes/install/) 1.8 or newer installed and configured.
+You will also need [maven](http://maven.apache.org/guides/getting-started/maven-in-five-minutes.html) installed and confiured.
 
 ## How to test
 
-Clone this repo then cd into the projects directory and run `mvn test`.
+Clone this repo then `cd` into the project's directory and run `mvn test`.
 
 ## NumberArrayUtils
 
